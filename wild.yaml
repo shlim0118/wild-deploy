@@ -38,6 +38,6 @@ spec:
         label: wild
       containers:
       - name: wild-container
-        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/wild:28
+        image: 756266714368.dkr.ecr.ap-northeast-2.amazonaws.com/wild:29
         ports:
         - containerPort: 30003     # wild server portaaa
